@@ -83,5 +83,4 @@
   
   **⭐ From [soratsm](https://github.com/soratsm) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
 </div>
